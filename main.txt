@@ -1,1 +1,2 @@
 line1: creat new file
+line2: we change first file and creat a new file
