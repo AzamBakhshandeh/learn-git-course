@@ -3,3 +3,4 @@ line2: we change first file and creat a new file
 line3: I add a new line
 line4: this line add now
 line5: we added another line
+line6: we change this file for last time
