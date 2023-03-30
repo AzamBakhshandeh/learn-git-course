@@ -3,3 +3,4 @@ line2: two line in feature-1
 line3: three line in feature-1
 line4: I added a new line and after that I will write a new commit for it
 line5: new line added
+line6: another line added
