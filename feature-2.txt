@@ -1,0 +1,3 @@
+line1: first line
+line2: add another line
+line3: we want merge master and feature-2
